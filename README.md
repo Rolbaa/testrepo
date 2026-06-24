@@ -1,10 +1,3 @@
-# testrepo
-
-##Editing file
-
-Its a markdown file in this repository
-
-
 # SpaceX Launch Dashboard
 
 This dashboard was created using Python, Pandas, Plotly Dash and Plotly Express.
